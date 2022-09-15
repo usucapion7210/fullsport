@@ -1,0 +1,21 @@
+.itemdetail {
+     background-color: rgba(242, 230, 230, .5);
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+     align-items: center;
+
+
+}
+
+.itemdetail img {
+     width: 200px;
+     height: 200px;
+}
+
+.itemdetail p {
+     width: 50%;
+     text-align: left;
+     font-size: 1.5rem;
+
+}

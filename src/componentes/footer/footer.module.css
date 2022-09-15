@@ -1,22 +1,24 @@
-.nav {
+.navbar {
+     width: 90%;
+     margin: 0 auto;
      display: flex;
-     justify-content: space-around;
+     justify-content: center;
      align-items: center;
-     flex-direction: row;
-     background-color: blanchedalmond;
-     flex-wrap: nowrap;
-     padding: 20px;
 }
 
-.nav ul {
-     width: 40%;
+.footer {
+     background-color: rgb(242, 197, 139);
+}
+
+.footer nav ul {
+
      display: flex;
      flex-direction: row;
      justify-content: center;
      align-items: center;
 }
 
-.nav ul li {
+.footer nav ul li {
      margin: 0 2rem;
      list-style: none;
 }

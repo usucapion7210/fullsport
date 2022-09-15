@@ -1,0 +1,31 @@
+.count {
+     width: 40%;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-between;
+     align-items: center;
+     margin-left: 3rem;
+     /* border: 3px dotted red; */
+}
+
+button {
+     margin: .5rem;
+     width: 100%;
+}
+
+.count div {
+     width: 90%;
+     display: flex;
+     flex-direction: row;
+     justify-content: space-between;
+     align-items: center;
+}
+
+.count div button {
+     width: 20%;
+     margin: 1rem;
+}
+
+.count div span {
+     font-size: 1.5rem;
+}

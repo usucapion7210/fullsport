@@ -1,0 +1,9 @@
+.navbar {
+     width: 80%;
+     margin: 0 left;
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     flex-wrap: nowrap;
+
+}

@@ -1,0 +1,16 @@
+.item {
+     width: 30%;
+     margin: 3 auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-evenly;
+     flex-wrap: nowrap;
+     align-items: center;
+     background-color: rgba(242, 230, 230, .5);
+
+}
+
+.item p {
+     padding: 5px;
+     align-self: center;
+}

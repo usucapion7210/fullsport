@@ -1,0 +1,16 @@
+.main {
+     width: 90%;
+     margin: 2rem auto;
+     display: flex;
+     flex-direction: column;
+     justify-content: space-around;
+     align-items: stretch;
+     margin-top: 10rem;
+     padding: 20px;
+}
+
+.main h1 {
+     border: 2px solid black;
+     text-align: center;
+     color: wheat;
+}

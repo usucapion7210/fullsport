@@ -1,0 +1,12 @@
+.itemlist {
+     height: 40vh;
+     margin: 3rem auto;
+     width: 60vw;
+     /* border: 2px solid black; */
+     display: flex;
+     justify-content: space-around;
+     align-items: stretch;
+     /* background-color: salmon; */
+
+
+}
